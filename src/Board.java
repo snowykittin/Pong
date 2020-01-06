@@ -3,7 +3,9 @@ import java.awt.*;
 import java.awt.event.ActionEvent;
 import java.awt.event.ActionListener;
 
-//Board class sets up the board and where the paddles and ball go. Aka, Law wants us to change things
+//Board class sets up the board and where the paddles and ball go. Aka, Law wants us to change things.
+//Doing another change because I found the shortkeys.
+
 
 public class Board extends JPanel implements ActionListener {
     final int WIDTH = 800;
